@@ -119,7 +119,7 @@
 
 ### 🐍 Fun Fact: Commit Snake
 <div align="center">
-  <img src="https://github.com/NT-Phong/NT-Phong/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/NT-Phong/NT-Phong/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 <div align="center">
