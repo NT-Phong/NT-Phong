@@ -1,16 +1,16 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,7000ff,f700ff&height=220&section=header&text=Nguyen%20Thanh%20Phong&fontSize=48&animation=fadeIn" alt="Header Banner" />
+</p>
 
-  <img src="https://img.shields.io/badge/Hello%2C%20NT--Phong-000000?style=for-the-badge&logo=starship&logoColor=white" alt="Header" />
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=24&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%2B+Designer;React%2C+.NET%2C+and+Interactive+Web+Experiences;Crafting+modern%2C+user-friendly+web+experiences." alt="Typing SVG" />
+  </a>
+</p>
 
-  <h1>🌌 Welcome to my universe!</h1>
-  <h3>Fullstack Developer + Designer | React, .NET, and Interactive Web Experiences</h3>
-  
-  <br>
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=NT-Phong&color=F700FF" alt="Profile Views" />
-  </p>
-  
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NT-Phong&color=F700FF&style=flat-square" alt="Profile Views" />
+</p>
 
 ---
 
